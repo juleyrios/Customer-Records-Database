@@ -27,7 +27,7 @@ I created a sample customer database containing information such as:
 * Order Amount
 * Payment Status
 
-I organized the information into a structured spreadsheet and checked the records for **missing, duplicate, or incorrectly formatted data**.
+I organized the information into a structured spreadsheet and checked the records for missing, duplicate, or incorrectly formatted data.
 
 ## 💻 Tools Used
 
@@ -36,4 +36,4 @@ I organized the information into a structured spreadsheet and checked the record
 
 ## 📚 What I Learned
 
-This project helped me practice **maintaining accurate records, organizing information efficiently, and using Excel to work with larger sets of data**.
+This project helped me practice maintaining accurate records, organizing information efficiently, and using Excel to work with larger sets of data.
