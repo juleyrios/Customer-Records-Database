@@ -1,33 +1,39 @@
-📊#Data Management Project
+# 📊 Data Management Project
 
-An Excel project focused on data entry, data cleaning, organization, and record management using a fictional customer database.
+## 📌 Overview
 
-**🛠️ Skills**
+This project demonstrates my ability to **organize, enter, clean, and manage information** using Microsoft Excel.
 
-Microsoft Excel
+## 🛠️ Skills Demonstrated
 
--Data Entry
+* Data Entry
+* Data Organization
+* Data Cleaning
+* Sorting and Filtering
+* Spreadsheet Formatting
+* Basic Excel Formulas
+* Identifying Duplicate Records
+* Maintaining Accurate Records
 
--Data Cleaning
+## 📂 Project
 
--Sorting & Filtering
+I created a sample customer database containing information such as:
 
--Record Management
+* Customer ID
+* Customer Name
+* Email
+* Phone Number
+* Order Date
+* Order Amount
+* Payment Status
 
--Data Accuracy
+I organized the information into a structured spreadsheet and checked the records for **missing, duplicate, or incorrectly formatted data**.
 
--Excel Formulas
+## 💻 Tools Used
 
-**📁 Project Includes**
+* Microsoft Excel
+* GitHub
 
--Data cleaning and error correction
+## 📚 What I Learned
 
--Dynamic filtering
-
--Summary report
-
--Basic Excel formulas: SUM, COUNTIF, COUNTA, AVERAGE
-
-**💻 Tools**
-
-Microsoft Excel • GitHub
+This project helped me practice **maintaining accurate records, organizing information efficiently, and using Excel to work with larger sets of data**.
